@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: Your Own Quests
+## Author: Borja Güiles ( Boar-Ha Will s)
+## Notes: keep track of custom quests
+## Version: 0.1
+
+Startup.lua
